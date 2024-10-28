@@ -1,0 +1,23 @@
+.navbar {
+    font-size: 1rem;
+  }
+  
+  .nav-link {
+    margin-left: 10px;
+    transition: color 0.3s ease;
+  }
+  
+  .nav-link:hover {
+    color: #f64b4b; /* Highlight color */
+  }
+  
+  button {
+    padding: 5px 15px;
+  }
+  /* header.css */
+.logo {
+  border-radius: 100%;
+  margin-right: 8px; /* Space between logo and text */
+  width: 80px; /* Adjust the width as needed */
+  height: 60px; /* Adjust the height as needed */
+}
